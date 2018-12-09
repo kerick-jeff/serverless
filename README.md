@@ -12,5 +12,5 @@ A simple serverless function hosted on Firebase
 * Open up a terminal window
 * Run `firebase login` to log in via the browser and authenticate the firebase tool.
 * Go to `functions` directory and run `npm install` to install dependencies
-* To deploy to the Firebase cloud functions, run: firebase deploy --only functions
+* To deploy to the Firebase cloud functions, run: `firebase deploy --only functions` in the project root directory
 
